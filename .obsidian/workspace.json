@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7d10ea25a960aa2d",
+        "id": "2401f692e67f0238",
         "type": "tabs",
         "children": [
           {
-            "id": "9d64561ffb9c88d3",
+            "id": "8e46e94f0c19c9a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NLP Vault  사용법.md",
+                "file": "Planner/1. Daily Plan/2024-12-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NLP Vault  사용법"
+              "title": "2024-12-10"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NLP Vault  사용법.md",
+                "file": "Planner/1. Daily Plan/2024-12-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "NLP Vault  사용법의 백링크"
+              "title": "2024-12-10의 백링크"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NLP Vault  사용법.md",
+                "file": "Planner/1. Daily Plan/2024-12-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "NLP Vault  사용법의 나가는 링크"
+              "title": "2024-12-10의 나가는 링크"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NLP Vault  사용법.md"
+                "file": "Planner/1. Daily Plan/2024-12-10.md"
               },
               "icon": "lucide-list",
-              "title": "NLP Vault  사용법 개요"
+              "title": "2024-12-10 개요"
             }
           },
           {
@@ -177,16 +177,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9d64561ffb9c88d3",
+  "active": "8e46e94f0c19c9a6",
   "lastOpenFiles": [
-    "README.md",
-    "NLP Vault  사용법.md",
-    "How_to_use/옵시디언/플러그인.md",
-    "How_to_use/옵시디언/source/Pasted image 20241210173957.png",
-    "How_to_use/옵시디언/source",
-    "How_to_use/옵시디언/단축키.md",
     "How_to_use/Things/깃, 깃허브 명령어 모음.md",
     "How_to_use/Things/Markdown 사용법.md",
+    "[.md",
+    "googlelink.md",
+    "How_to_use/옵시디언/플러그인.md",
+    "How_to_use/옵시디언/단축키.md",
+    "NLP Vault  사용법.md",
+    "README.md",
+    "How_to_use/옵시디언/source/Pasted image 20241210173957.png",
+    "How_to_use/옵시디언/source",
     "Planner/1. Daily Plan/2024-12-10.md",
     "Planner/3. Monthly Plan",
     "Planner/2. Weekly Plan",
