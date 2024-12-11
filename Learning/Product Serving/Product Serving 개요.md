@@ -1,6 +1,6 @@
 # 강좌 목표
 
-- Airflow와 Batch Serving 원리 이해 [[Product Serving 소개]], [[Airflow Index]]
+- Airflow와 Batch Serving 원리 이해 [[Product Serving 소개 Index]], [[Airflow Index]]
     - Airflow를 사용하여 대량의 데이터를 처리하는 Batch Serving 프로세스를 설계하고 구현할 수 있다.
 - Online Serving 기술 습득
     - FastAPI와 같은 웹 프레임워크를 활용하여 실시간으로 모델을 서빙하는 웹 애플리케이션을 개발하고 배포할 수 있다.

@@ -13,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Product Serving/Airflow/Airflow Index.md",
+                "file": "Learning/Product Serving/Product Serving 소개/Serving의 다양한 패턴.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Airflow Index"
+              "title": "Serving의 다양한 패턴"
+            }
+          },
+          {
+            "id": "1c6d9b7d72faad5d",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Planner/Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Kanban"
             }
           }
         ]
@@ -179,6 +199,21 @@
   },
   "active": "31a06cec8567e898",
   "lastOpenFiles": [
+    "Learning/Product Serving/Product Serving 소개/source/Pasted image 20241211165305.png",
+    "Planner/Kanban.md",
+    "Learning/Product Serving/Product Serving 소개/Serving의 다양한 패턴.md",
+    "Learning/Product Serving/Product Serving 소개/source/Pasted image 20241211164913.png",
+    "Learning/Product Serving/Product Serving 소개/source/Pasted image 20241211163916.png",
+    "Learning/Product Serving/Product Serving 소개/source/Pasted image 20241211163247.png",
+    "Learning/Product Serving/Product Serving 소개/source",
+    "Learning/Product Serving/Product Serving 소개/Product Serving 소개 Index.md",
+    "Learning/Product Serving/Product Serving 개요.md",
+    "Product Serving 소개.md",
+    "Product Serving 소개/Product Serving 소개/Product Serving 소개 Index.md",
+    "Product Serving 소개/Product Serving 소개",
+    "Product Serving 소개",
+    "Learning/Product Serving/Product Serving 소개/Untitled.md",
+    "Learning/Product Serving/Airflow/Airflow Index.md",
     "Settings/Templater/Create folder_name Index file when creating a folder.md",
     "Planner/1. Daily Plan/2024-12-10.md",
     "test/test Index.md",
@@ -194,26 +229,15 @@
     "test2",
     "Untitled 1.md",
     "Planner/1. Daily Plan/2024-12-11.md",
-    "Learning/Product Serving/Airflow/Airflow Index.md",
     "NLP Vault  사용법.md",
     "How_to_use/옵시디언/source/Pasted image 20241210173957.png",
     "How_to_use/옵시디언/단축키.md",
     "How_to_use/옵시디언/플러그인.md",
-    "Learning/Product Serving/Product Serving 개요.md",
     "README.md",
     "test4/test4 Index.md",
     "test4",
     "abc",
     "Untitled 2.md",
-    "Airflow/Airflow Index.md",
-    "Airflow",
-    "무제 파일 1.md",
-    "무제 파일.md",
-    "Settings/Templater",
-    "Learning/Product Serving/Product Serving 소개",
-    "Airflow.md",
-    "Planner/2. Weekly Plan/2024-W50.md",
-    "Planner/Kanban.md",
-    "sfsa.md"
+    "Airflow/Airflow Index.md"
   ]
 }
