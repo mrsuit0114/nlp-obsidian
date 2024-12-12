@@ -25,5 +25,14 @@
       ],
       "key": "N"
     }
+  ],
+  "file-explorer:new-file": [],
+  "periodic-notes:open-daily-note": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
   ]
 }

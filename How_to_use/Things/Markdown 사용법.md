@@ -41,3 +41,7 @@ __double underscores__
 ~~cancelline~~
 ```
 
+- 글머리에 코드 종속 시키기
+	```
+	탭한번 백틱 3번
+	```
