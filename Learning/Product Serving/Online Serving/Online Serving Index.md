@@ -53,4 +53,27 @@
 
 - FastAPI를 사용하여 복잡한 데이터 구조를 처리하는 API를 설계하는 방법에는 어떤 것들이 있을까요? 예를 들어, 다양한 종류의 데이터 입력과 출력을 처리하거나, 복잡한 데이터 검증을 수행하는 방법에 대해 탐구해 보세요.
 ## 5. page index
-[[FastAPI(1)]]
+[[FastAPI (1)]]
+# FastAPI (2)
+## 1. 강의 소개
+
+- 본 강의에서는 FastAPI의 고급 기능과 확장 기능을 탐구합니다. Pydantic을 사용한 데이터 검증과 설정 관리, FastAPI의 생명주기 함수, API 라우터, 프로젝트 구조, 에러 처리 및 백그라운드 작업의 구현 방법을 다룹니다. 이 강의를 통해 학생들은 FastAPI의 심화된 사용법을 익히고, 효과적인 웹 서비스를 구축하는 데 필요한 실전 기술을 배울 수 있습니다.
+    
+
+## 2. 강의 키워드  
+
+- FastAPI 고급 기능
+- Pydantic Data Validation
+- API Router
+- Error handling
+- Lifespan
+- Background task
+
+## 3. Further Reading
+
+- [Advanced User Guide for FastAPI](https://fastapi.tiangolo.com/advanced/)
+    - FastAPI의 고급 기능에 대한 심층적인 내용을 다루며, 실제 사례와 적용 방법을 설명합니다.
+- [Awesome-fastapi](https://github.com/mjhea0/awesome-fastapi)
+    - FastAPI와 연관된 써드파티 라이브러리들을 큐레이션 합니다.
+## 4. page index
+[[FastAPI (2)]]
