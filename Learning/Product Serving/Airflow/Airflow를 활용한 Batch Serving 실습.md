@@ -59,4 +59,25 @@
 	    ```
 	    airflow scheduler
 	    ```
----
+- 과정
+	- 환경 구성 이후 dags폴더 생성하고 dag를 포함한 hello_world.py를 생성했으나 웹에 나오지 않는 상황
+	- 참고할 명령어
+		- pkill -f "airflow scheduler"
+		- airflow dags list
+		- ps aux | grep airflow
+		- pkill -f "airflow"
+	- dags 확인하기
+			```
+			export AIRFLOW_HOME=`pwd`
+			echo $AIRFLOW_HOME
+			ls $AIRFLOW_HOME/dags
+			```
+	- admin생성했던 내용이 남아있지 않는 현상
+		- 도중에 하다 말아서 그런가 정보가 없네
+		- 계정을 생성안했다기엔 로그인은 되어있는 화면은 확인했는데 이유를 모르겠지만
+		  다시 계정을 만들어서 확인함 - 기존에 없었기에 생성됨 -> 로그인은 어떻게 됐었지..
+- 내용 정리
+	- 파이썬, 배시 오퍼레이터 기본 사용법
+	- kwargs의 인자 사용 예제 - 멱등성을 위해 data사용을 배제하고 kwargs['ds']를 이용함
+	- -> airflow의 jinjatemplate을 사용해서 간단히 표현 가능 및 리턴과 xcom
+	- slack으로 메시지 보내는 것은 생략함

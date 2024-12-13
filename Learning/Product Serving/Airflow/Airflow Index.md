@@ -28,3 +28,4 @@
 - Batch Serving 의 성능을 어떻게 향상시킬 수 있는 방법으로 어떤 게 있을까요?
 ---
 [[Airflow를 활용한 Batch Serving]] -> gpu 서버 계속 돌리는데 사용할 수 있겠는데? 하지만 무겁다고하기 때문에 환경에 따라 쉘로 구현해야할수도있겠다.
+[[Airflow를 활용한 Batch Serving 실습]]
